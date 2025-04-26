@@ -1,4 +1,4 @@
-![Demo Screenshot](./src/assets/demo.png)
+![Demo Screenshot](./assets/demo.png)
 # 📈 Real-Time Crypto Price Tracker
 
 A responsive React + Redux Toolkit app that simulates real-time crypto price tracking with live updates every 2 seconds.
