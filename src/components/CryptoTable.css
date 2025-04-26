@@ -1,0 +1,30 @@
+.table-container {
+  padding: 2rem;
+  overflow-x: auto;
+}
+
+.crypto-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.crypto-table th,
+.crypto-table td {
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+}
+
+.crypto-table th {
+  background-color: #222;
+  color: white;
+}
+
+@media (max-width: 768px) {
+  .crypto-table th,
+  .crypto-table td {
+    padding: 0.5rem;
+    font-size: 0.85rem;
+  }
+}
